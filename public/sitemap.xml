@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-22T09:32:59+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogposts/personal-library/</loc>
+    <lastmod>2025-08-22T09:32:59+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogposts/</loc>
+    <lastmod>2025-08-14T17:55:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</loc>
+    <lastmod>2025-08-14T17:55:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogposts/2025-08-14-my-first-post/</loc>
+    <lastmod>2025-08-14T17:55:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-07-30T15:38:02+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal/</loc>
+    <lastmod>2025-07-30T15:38:02+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-30T15:38:02+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+</urlset>
