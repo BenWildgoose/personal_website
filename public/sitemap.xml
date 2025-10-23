@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://benwildgoose.github.io/</loc>
     <lastmod>2025-08-22T09:32:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogposts/personal-library/</loc>
+    <loc>https://benwildgoose.github.io/blogposts/personal-library/</loc>
     <lastmod>2025-08-22T09:32:59+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogposts/</loc>
+    <loc>https://benwildgoose.github.io/blogposts/</loc>
     <lastmod>2025-08-14T17:55:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</loc>
+    <loc>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</loc>
     <lastmod>2025-08-14T17:55:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogposts/2025-08-14-my-first-post/</loc>
+    <loc>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</loc>
     <lastmod>2025-08-14T17:55:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://benwildgoose.github.io/about/</loc>
     <lastmod>2025-07-30T15:38:02+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
+    <loc>https://benwildgoose.github.io/tags/personal/</loc>
     <lastmod>2025-07-30T15:38:02+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://benwildgoose.github.io/tags/</loc>
     <lastmod>2025-07-30T15:38:02+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://benwildgoose.github.io/categories/</loc>
   </url>
 </urlset>

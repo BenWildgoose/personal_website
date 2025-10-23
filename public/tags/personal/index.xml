@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ben Wildgoose&#39;s Website</title>
-    <link>http://localhost:1313/tags/personal/</link>
+    <link>https://benwildgoose.github.io/tags/personal/</link>
     <description>Recent content on Ben Wildgoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2025 15:38:02 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benwildgoose.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://benwildgoose.github.io/about/</link>
       <pubDate>Wed, 30 Jul 2025 15:38:02 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://benwildgoose.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a graduate in Computer Science and Mathematics from the University of Bath. During my studies I enjoyed pure forms of mathematics in the realms of algebra and real analysis, but for the first couple of years of study this felt somewhat distant from the topics we would study in the computer science modules. Fortunately there was a bridge between these two subjects inside the world of proof assistants. The topic of my dissertation was on one of these languages, Lean, with the goal of bringing an proof from asypmtotic analysis and &amp;lsquo;formalising&amp;rsquo; it within Lean. The underlying logic and semantics of such languages were also studied in a module during my final semester, which made sense of the complicated type theory that Lean relies on for checking if proofs are valid.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I&rsquo;m a graduate in Computer Science and Mathematics from the University of Bath. During my studies I enjoyed pure forms of mathematics in the realms of algebra and real analysis, but for the first couple of years of study this felt somewhat distant from the topics we would study in the computer science modules. Fortunately there was a bridge between these two subjects inside the world of proof assistants. The topic of my dissertation was on one of these languages, Lean, with the goal of bringing an proof from asypmtotic analysis and &lsquo;formalising&rsquo; it within Lean. The underlying logic and semantics of such languages were also studied in a module during my final semester, which made sense of the complicated type theory that Lean relies on for checking if proofs are valid.</p>
 <p>In my free time I enjoy reading, especially about religion and philosophy. Language learning is also something I&rsquo;ve gained a lot from, having studied bits of French, Spanish and Russian over time. Problem is that my approach to the this is similar to my studies; study the underlying logic (grammar) but overlook that this won&rsquo;t always teach you how to use the language in practice 😳.</p>
