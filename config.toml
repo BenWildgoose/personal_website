@@ -4,23 +4,52 @@ languageCode = 'en-us'
 theme = 'hugo-simple'
 
 [params]
-  # "relatedtext" is the text that appears above the tag list at the bottom of pages.
-  relatedtext = "Related"
-  favicon = "/favicon.ico"
+# "relatedtext" is the text that appears above the tag list at the bottom of pages.
+relatedtext = "Related"
+favicon = "/favicon.svg"
 
-  #list items
-  datesinlist = true
-  authorsinlist = true
+#list items
+datesinlist = true
+authorsinlist = true
 
-  #footer items
-  nextprev = true
-  taglist = true
-  showrss = true
-
+#footer items
+nextprev = true
+taglist = true
+showrss = true
 
 
 [menu] #Shows the home page on the nav bar.
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/blogposts/"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 4
+
+[[menu.main]]
+name = "Links"
+url = "/links/"
+weight = 5
+
+[[menu.main]]
+name = "Contact"
+url = "/#contact"
+weight = 6
+
+# [[menu.main]]
+#   name = "Portfolio"
+#   url = "/portfolio/"
+#   weight = 5

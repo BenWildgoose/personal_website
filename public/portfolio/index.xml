@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ben Wildgoose&#39;s Website</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content on Ben Wildgoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Aug 2025 09:32:59 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Science and Mathematics Degree</title>
+      <link>http://localhost:1313/portfolio/cs-mathematics-degree/</link>
+      <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
+      <guid>http://localhost:1313/portfolio/cs-mathematics-degree/</guid>
+      <description>&lt;h2 id=&#34;computer-science-and-mathematics-degree&#34;&gt;Computer Science and Mathematics Degree&lt;/h2&gt;
+&lt;p&gt;University of Bath graduate with a Bachelor of Science degree in Computer Science and Mathematics.&lt;/p&gt;
+&lt;h3 id=&#34;academic-focus&#34;&gt;Academic Focus&lt;/h3&gt;
+&lt;p&gt;During my studies, I particularly enjoyed pure forms of mathematics in the realms of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algebra&lt;/li&gt;
+&lt;li&gt;Real Analysis&lt;/li&gt;
+&lt;li&gt;Type Theory&lt;/li&gt;
+&lt;li&gt;Proof Assistants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dissertation&#34;&gt;Dissertation&lt;/h3&gt;
+&lt;p&gt;My dissertation focused on the Lean proof assistant language. I worked on bringing a proof from asymptotic analysis and formalising it within Lean. This project provided valuable experience with:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="computer-science-and-mathematics-degree">Computer Science and Mathematics Degree</h2>
+<p>University of Bath graduate with a Bachelor of Science degree in Computer Science and Mathematics.</p>
+<h3 id="academic-focus">Academic Focus</h3>
+<p>During my studies, I particularly enjoyed pure forms of mathematics in the realms of:</p>
+<ul>
+<li>Algebra</li>
+<li>Real Analysis</li>
+<li>Type Theory</li>
+<li>Proof Assistants</li>
+</ul>
+<h3 id="dissertation">Dissertation</h3>
+<p>My dissertation focused on the Lean proof assistant language. I worked on bringing a proof from asymptotic analysis and formalising it within Lean. This project provided valuable experience with:</p>
+<ul>
+<li>Formal mathematics</li>
+<li>Programming language theory</li>
+<li>Logic and semantics</li>
+<li>Type systems</li>
+</ul>
+<p>Image: University of Bath campus - 600x400</p>
+<h3 id="achievements">Achievements</h3>
+<ul>
+<li>Completed degree in Computer Science and Mathematics</li>
+<li>Successfully defended dissertation on proof formalisation</li>
+<li>Developed strong analytical and problem-solving skills</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Language Learning</title>
+      <link>http://localhost:1313/portfolio/language-learning/</link>
+      <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
+      <guid>http://localhost:1313/portfolio/language-learning/</guid>
+      <description>&lt;h2 id=&#34;language-learning&#34;&gt;Language Learning&lt;/h2&gt;
+&lt;p&gt;I have an ongoing interest in learning foreign languages. My approach tends to focus on understanding the underlying logic and grammar of each language.&lt;/p&gt;
+&lt;h3 id=&#34;languages-studied&#34;&gt;Languages Studied&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;French&lt;/strong&gt;
+Studied French language with emphasis on grammar rules and sentence structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;
+Explored Spanish vocabulary, grammar, and pronunciation patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Russian&lt;/strong&gt;
+Engaged with the Cyrillic alphabet, Russian grammar, and basic conversational phrases.&lt;/p&gt;
+&lt;h3 id=&#34;learning-approach&#34;&gt;Learning Approach&lt;/h3&gt;
+&lt;p&gt;My approach to language learning is similar to my academic studies - I focus heavily on the underlying logic and grammar systems. While this provides a strong theoretical foundation, I sometimes overlook the practical application of the language in everyday conversation.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="language-learning">Language Learning</h2>
+<p>I have an ongoing interest in learning foreign languages. My approach tends to focus on understanding the underlying logic and grammar of each language.</p>
+<h3 id="languages-studied">Languages Studied</h3>
+<p><strong>French</strong>
+Studied French language with emphasis on grammar rules and sentence structure.</p>
+<p><strong>Spanish</strong>
+Explored Spanish vocabulary, grammar, and pronunciation patterns.</p>
+<p><strong>Russian</strong>
+Engaged with the Cyrillic alphabet, Russian grammar, and basic conversational phrases.</p>
+<h3 id="learning-approach">Learning Approach</h3>
+<p>My approach to language learning is similar to my academic studies - I focus heavily on the underlying logic and grammar systems. While this provides a strong theoretical foundation, I sometimes overlook the practical application of the language in everyday conversation.</p>
+<p>Image: Language textbooks - 500x350</p>
+<h3 id="future-goals">Future Goals</h3>
+<ul>
+<li>Improve conversational skills in studied languages</li>
+<li>Practice speaking with native speakers</li>
+<li>Expand vocabulary through reading and conversation</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

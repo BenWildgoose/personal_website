@@ -1,0 +1,13 @@
+<!-- Custom CSS -->
+{{ if (resources.Get "custom.css") }}
+  {{ $custom := resources.Get "custom.css" | minify }}
+  <link href="{{ $custom.RelPermalink }}" rel="stylesheet" />
+{{ end }}
+
+<!-- 
+To use Google Fonts, uncomment the lines below and replace with your chosen fonts:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+-->

@@ -2,48 +2,302 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ben Wildgoose&#39;s Website</title>
-    <link>https://benwildgoose.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ben Wildgoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Aug 2025 09:32:59 +0100</lastBuildDate>
-    <atom:link href="https://benwildgoose.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;lean&#34;&gt;Lean&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://adam.math.hhu.de/#/g/AlexKontorovich/RealAnalysisGame&#34;&gt;Real Analysis, The Game&lt;/a&gt; - Great Lean project for learning the basics of real analysis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adam.math.hhu.de/#/g/leanprover-community/nng4&#34;&gt;Natural Number Game&lt;/a&gt; - The best introduction for Lean, giving a good overview of basic syntax and some of the language works&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://leanprover-community.github.io&#34;&gt;Lean Community&lt;/a&gt; - Lean proof assistant resources&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adam.math.hhu.de/#/&#34;&gt;Lean Game Server&lt;/a&gt; - Some popular Lean games&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;russian&#34;&gt;Russian&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@AmazingRussian&#34;&gt;Amazing Russian&lt;/a&gt; - Channel with great videos for beginners and intermediate speakers, better explanation of grammar than most other channels&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.russianlessons.net/&#34;&gt;Russian Lessons . net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.russianforfree.com/&#34;&gt;Russian for free&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;french&#34;&gt;French&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lepointdufle.net/&#34;&gt;Le Point du FLE&lt;/a&gt; - Massive collection of exercises and lessons from many different websites and channels.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@learnfrenchwithalexa&#34;&gt;French with Alexa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; - Code hosting and version control&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com&#34;&gt;Stack Overflow&lt;/a&gt; - Programming Q&amp;amp;A&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org&#34;&gt;MDN Web Docs&lt;/a&gt; - Web development documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;learning-resources&#34;&gt;Learning Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org&#34;&gt;Khan Academy&lt;/a&gt; - Free online courses&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org&#34;&gt;Coursera&lt;/a&gt; - Online learning platform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu&#34;&gt;MIT OpenCourseWare&lt;/a&gt; - Free MIT course materials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mathworld.wolfram.com&#34;&gt;Wolfram MathWorld&lt;/a&gt; - Mathematics encyclopedia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org&#34;&gt;arXiv&lt;/a&gt; - Research paper archive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://math.stackexchange.com&#34;&gt;Math Stack Exchange&lt;/a&gt; - Mathematics Q&amp;amp;A&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.3blue1brown.com&#34;&gt;3Blue1Brown&lt;/a&gt; - Math visualization videos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;other-resources&#34;&gt;Other Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gutenberg.org&#34;&gt;Project Gutenberg&lt;/a&gt; - Free ebooks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive.org&#34;&gt;Internet Archive&lt;/a&gt; - Digital library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com&#34;&gt;Google Scholar&lt;/a&gt; - Academic search engine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+      <content:encoded><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="lean">Lean</h2>
+<ul>
+<li><a href="https://adam.math.hhu.de/#/g/AlexKontorovich/RealAnalysisGame">Real Analysis, The Game</a> - Great Lean project for learning the basics of real analysis</li>
+<li><a href="https://adam.math.hhu.de/#/g/leanprover-community/nng4">Natural Number Game</a> - The best introduction for Lean, giving a good overview of basic syntax and some of the language works</li>
+<li><a href="https://leanprover-community.github.io">Lean Community</a> - Lean proof assistant resources</li>
+<li><a href="https://adam.math.hhu.de/#/">Lean Game Server</a> - Some popular Lean games</li>
+</ul>
+<h2 id="russian">Russian</h2>
+<ul>
+<li><a href="https://www.youtube.com/@AmazingRussian">Amazing Russian</a> - Channel with great videos for beginners and intermediate speakers, better explanation of grammar than most other channels</li>
+<li><a href="https://www.russianlessons.net/">Russian Lessons . net</a></li>
+<li><a href="https://www.russianforfree.com/">Russian for free</a></li>
+</ul>
+<h2 id="french">French</h2>
+<ul>
+<li><a href="https://www.lepointdufle.net/">Le Point du FLE</a> - Massive collection of exercises and lessons from many different websites and channels.</li>
+<li><a href="https://www.youtube.com/@learnfrenchwithalexa">French with Alexa</a></li>
+</ul>
+<h2 id="programming">Programming</h2>
+<ul>
+<li><a href="https://github.com">GitHub</a> - Code hosting and version control</li>
+<li><a href="https://stackoverflow.com">Stack Overflow</a> - Programming Q&amp;A</li>
+<li><a href="https://developer.mozilla.org">MDN Web Docs</a> - Web development documentation</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="learning-resources">Learning Resources</h2>
+<ul>
+<li><a href="https://www.khanacademy.org">Khan Academy</a> - Free online courses</li>
+<li><a href="https://www.coursera.org">Coursera</a> - Online learning platform</li>
+<li><a href="https://ocw.mit.edu">MIT OpenCourseWare</a> - Free MIT course materials</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="mathematics">Mathematics</h2>
+<ul>
+<li><a href="https://mathworld.wolfram.com">Wolfram MathWorld</a> - Mathematics encyclopedia</li>
+<li><a href="https://arxiv.org">arXiv</a> - Research paper archive</li>
+<li><a href="https://math.stackexchange.com">Math Stack Exchange</a> - Mathematics Q&amp;A</li>
+<li><a href="https://www.3blue1brown.com">3Blue1Brown</a> - Math visualization videos</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<h2 id="other-resources">Other Resources</h2>
+<ul>
+<li><a href="https://www.gutenberg.org">Project Gutenberg</a> - Free ebooks</li>
+<li><a href="https://archive.org">Internet Archive</a> - Digital library</li>
+<li><a href="https://scholar.google.com">Google Scholar</a> - Academic search engine</li>
+</ul>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Raytracer</title>
+      <link>http://localhost:1313/projects/raytracer/</link>
+      <pubDate>Fri, 06 Feb 2026 17:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/raytracer/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Drop Card Game</title>
+      <link>http://localhost:1313/projects/drop-card-game/</link>
+      <pubDate>Fri, 06 Feb 2026 17:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drop-card-game/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>C Compiler</title>
+      <link>http://localhost:1313/projects/c-compiler/</link>
+      <pubDate>Fri, 06 Feb 2026 17:33:05 +0000</pubDate>
+      <guid>http://localhost:1313/projects/c-compiler/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Computer Science and Mathematics Degree</title>
+      <link>http://localhost:1313/portfolio/cs-mathematics-degree/</link>
+      <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
+      <guid>http://localhost:1313/portfolio/cs-mathematics-degree/</guid>
+      <description>&lt;h2 id=&#34;computer-science-and-mathematics-degree&#34;&gt;Computer Science and Mathematics Degree&lt;/h2&gt;
+&lt;p&gt;University of Bath graduate with a Bachelor of Science degree in Computer Science and Mathematics.&lt;/p&gt;
+&lt;h3 id=&#34;academic-focus&#34;&gt;Academic Focus&lt;/h3&gt;
+&lt;p&gt;During my studies, I particularly enjoyed pure forms of mathematics in the realms of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algebra&lt;/li&gt;
+&lt;li&gt;Real Analysis&lt;/li&gt;
+&lt;li&gt;Type Theory&lt;/li&gt;
+&lt;li&gt;Proof Assistants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dissertation&#34;&gt;Dissertation&lt;/h3&gt;
+&lt;p&gt;My dissertation focused on the Lean proof assistant language. I worked on bringing a proof from asymptotic analysis and formalising it within Lean. This project provided valuable experience with:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="computer-science-and-mathematics-degree">Computer Science and Mathematics Degree</h2>
+<p>University of Bath graduate with a Bachelor of Science degree in Computer Science and Mathematics.</p>
+<h3 id="academic-focus">Academic Focus</h3>
+<p>During my studies, I particularly enjoyed pure forms of mathematics in the realms of:</p>
+<ul>
+<li>Algebra</li>
+<li>Real Analysis</li>
+<li>Type Theory</li>
+<li>Proof Assistants</li>
+</ul>
+<h3 id="dissertation">Dissertation</h3>
+<p>My dissertation focused on the Lean proof assistant language. I worked on bringing a proof from asymptotic analysis and formalising it within Lean. This project provided valuable experience with:</p>
+<ul>
+<li>Formal mathematics</li>
+<li>Programming language theory</li>
+<li>Logic and semantics</li>
+<li>Type systems</li>
+</ul>
+<p>Image: University of Bath campus - 600x400</p>
+<h3 id="achievements">Achievements</h3>
+<ul>
+<li>Completed degree in Computer Science and Mathematics</li>
+<li>Successfully defended dissertation on proof formalisation</li>
+<li>Developed strong analytical and problem-solving skills</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Language Learning</title>
+      <link>http://localhost:1313/portfolio/language-learning/</link>
+      <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
+      <guid>http://localhost:1313/portfolio/language-learning/</guid>
+      <description>&lt;h2 id=&#34;language-learning&#34;&gt;Language Learning&lt;/h2&gt;
+&lt;p&gt;I have an ongoing interest in learning foreign languages. My approach tends to focus on understanding the underlying logic and grammar of each language.&lt;/p&gt;
+&lt;h3 id=&#34;languages-studied&#34;&gt;Languages Studied&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;French&lt;/strong&gt;
+Studied French language with emphasis on grammar rules and sentence structure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spanish&lt;/strong&gt;
+Explored Spanish vocabulary, grammar, and pronunciation patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Russian&lt;/strong&gt;
+Engaged with the Cyrillic alphabet, Russian grammar, and basic conversational phrases.&lt;/p&gt;
+&lt;h3 id=&#34;learning-approach&#34;&gt;Learning Approach&lt;/h3&gt;
+&lt;p&gt;My approach to language learning is similar to my academic studies - I focus heavily on the underlying logic and grammar systems. While this provides a strong theoretical foundation, I sometimes overlook the practical application of the language in everyday conversation.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="language-learning">Language Learning</h2>
+<p>I have an ongoing interest in learning foreign languages. My approach tends to focus on understanding the underlying logic and grammar of each language.</p>
+<h3 id="languages-studied">Languages Studied</h3>
+<p><strong>French</strong>
+Studied French language with emphasis on grammar rules and sentence structure.</p>
+<p><strong>Spanish</strong>
+Explored Spanish vocabulary, grammar, and pronunciation patterns.</p>
+<p><strong>Russian</strong>
+Engaged with the Cyrillic alphabet, Russian grammar, and basic conversational phrases.</p>
+<h3 id="learning-approach">Learning Approach</h3>
+<p>My approach to language learning is similar to my academic studies - I focus heavily on the underlying logic and grammar systems. While this provides a strong theoretical foundation, I sometimes overlook the practical application of the language in everyday conversation.</p>
+<p>Image: Language textbooks - 500x350</p>
+<h3 id="future-goals">Future Goals</h3>
+<ul>
+<li>Improve conversational skills in studied languages</li>
+<li>Practice speaking with native speakers</li>
+<li>Expand vocabulary through reading and conversation</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lean Proof Formalisation</title>
+      <link>http://localhost:1313/projects/lean-proof-formalisation/</link>
+      <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
+      <guid>http://localhost:1313/projects/lean-proof-formalisation/</guid>
+      <description>&lt;h2 id=&#34;lean-proof-formalisation&#34;&gt;Lean Proof Formalisation&lt;/h2&gt;
+&lt;p&gt;This project was part of my dissertation at the University of Bath. The goal was to bring a proof from asymptotic analysis and &amp;lsquo;formalise&amp;rsquo; it within the Lean proof assistant language.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Proof assistants are software systems that help construct and verify mathematical proofs. Lean is one such language that relies on sophisticated type theory to check if proofs are valid. During my final semester, I studied the underlying logic and semantics of such languages, which helped make sense of the complicated type theory that Lean depends upon.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="lean-proof-formalisation">Lean Proof Formalisation</h2>
+<p>This project was part of my dissertation at the University of Bath. The goal was to bring a proof from asymptotic analysis and &lsquo;formalise&rsquo; it within the Lean proof assistant language.</p>
+<h3 id="background">Background</h3>
+<p>Proof assistants are software systems that help construct and verify mathematical proofs. Lean is one such language that relies on sophisticated type theory to check if proofs are valid. During my final semester, I studied the underlying logic and semantics of such languages, which helped make sense of the complicated type theory that Lean depends upon.</p>
+<h3 id="work-completed">Work Completed</h3>
+<ul>
+<li>Translated asymptotic analysis proofs into formal Lean code</li>
+<li>Studied the type theory underpinning the Lean proof assistant</li>
+<li>Verified proofs using Lean&rsquo;s automated checking system</li>
+</ul>
+<p>Image: Lean code example - 600x400</p>
+<h3 id="related-topics">Related Topics</h3>
+<ul>
+<li>Type Theory</li>
+<li>Formal Methods</li>
+<li>Mathematical Logic</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Personal Library</title>
-      <link>https://benwildgoose.github.io/blogposts/personal-library/</link>
+      <link>http://localhost:1313/blogposts/personal-library/</link>
       <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/personal-library/</guid>
+      <guid>http://localhost:1313/blogposts/personal-library/</guid>
       <description>&lt;p&gt;Explaining how I built my personal library using Rust.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Explaining how I built my personal library using Rust.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Fixing a car battery</title>
-      <link>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</link>
+      <link>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</link>
       <pubDate>Thu, 14 Aug 2025 17:55:23 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</guid>
+      <guid>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</guid>
       <description>&lt;p&gt;Here I will show how to fix the car battery in a Vauxhall Astra.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Here I will show how to fix the car battery in a Vauxhall Astra.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>My first post</title>
-      <link>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</link>
+      <link>http://localhost:1313/blogposts/2025-08-14-my-first-post/</link>
       <pubDate>Thu, 14 Aug 2025 17:55:23 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</guid>
+      <guid>http://localhost:1313/blogposts/2025-08-14-my-first-post/</guid>
       <description>&lt;p&gt;Post body&amp;hellip;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Post body&hellip;</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>New Blog Post</title>
+      <link>http://localhost:1313/new-blog-post/</link>
+      <pubDate>Wed, 30 Jul 2025 15:48:09 +0100</pubDate>
+      <guid>http://localhost:1313/new-blog-post/</guid>
+      <description>&lt;p&gt;Here is a hyperlink to my &lt;a href=&#34;http://localhost:1313/about&#34;&gt;about page&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Here is a hyperlink to my <a href="/about">about page</a></p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>About</title>
-      <link>https://benwildgoose.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 30 Jul 2025 15:38:02 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a graduate in Computer Science and Mathematics from the University of Bath. During my studies I enjoyed pure forms of mathematics in the realms of algebra and real analysis, but for the first couple of years of study this felt somewhat distant from the topics we would study in the computer science modules. Fortunately there was a bridge between these two subjects inside the world of proof assistants. The topic of my dissertation was on one of these languages, Lean, with the goal of bringing an proof from asypmtotic analysis and &amp;lsquo;formalising&amp;rsquo; it within Lean. The underlying logic and semantics of such languages were also studied in a module during my final semester, which made sense of the complicated type theory that Lean relies on for checking if proofs are valid.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I&rsquo;m a graduate in Computer Science and Mathematics from the University of Bath. During my studies I enjoyed pure forms of mathematics in the realms of algebra and real analysis, but for the first couple of years of study this felt somewhat distant from the topics we would study in the computer science modules. Fortunately there was a bridge between these two subjects inside the world of proof assistants. The topic of my dissertation was on one of these languages, Lean, with the goal of bringing an proof from asypmtotic analysis and &lsquo;formalising&rsquo; it within Lean. The underlying logic and semantics of such languages were also studied in a module during my final semester, which made sense of the complicated type theory that Lean relies on for checking if proofs are valid.</p>
-<p>In my free time I enjoy reading, especially about religion and philosophy. Language learning is also something I&rsquo;ve gained a lot from, having studied bits of French, Spanish and Russian over time. Problem is that my approach to the this is similar to my studies; study the underlying logic (grammar) but overlook that this won&rsquo;t always teach you how to use the language in practice 😳.</p>
-<p>Being Christian is an important part of my life and I regularly attend my local church.</p>
+<p>In my free time I enjoy reading, especially about religion and philosophy. Language learning is also something I&rsquo;ve gained a lot from, having studied French, Spanish and Russian all to varying degrees.</p>
+<p>Being Christian is a central part of my life and I regularly attend my local church.</p>
 ]]></content:encoded>
     </item>
   </channel>

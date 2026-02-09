@@ -22,6 +22,72 @@ footer {
 	clear: both ;
 }
 
+/* Homepage sections */
+main section {
+	border-top: 1px solid #8b0000 ;
+	border-bottom: 1px solid #8b0000 ;
+	padding: 1.5rem 0 ;
+	margin: 2rem 0 ;
+}
+
+main section:first-child {
+	border-top: none ;
+	padding-top: 0 ;
+}
+
+main section:last-child {
+	border-bottom: none ;
+	padding-bottom: 0 ;
+}
+
+/* Ordered lists for Projects and Portfolio */
+main section ol {
+	margin: 1rem 0 ;
+	padding-left: 2rem ;
+}
+
+main section ol li {
+	margin: 1rem 0 ;
+	padding-left: 0.5rem ;
+}
+
+main section ol li strong {
+	color: #f5f5f5 ;
+}
+
+/* Bullet lists for Languages */
+main section ul {
+	margin: 1rem 0 ;
+	padding-left: 2rem ;
+}
+
+main section ul li {
+	margin: 0.5rem 0 ;
+}
+
+/* Image placeholder styling */
+img[alt*="placeholder"] {
+	display: block ;
+	background-color: #2a0000 ;
+	border: 1px solid #8b0000 ;
+	padding: 1rem ;
+	margin: 1.5rem 0 ;
+	color: #aaa ;
+	text-align: center ;
+	font-style: italic ;
+}
+
+/* Subsections */
+main section h3 {
+	margin-top: 1.5rem ;
+	margin-bottom: 0.5rem ;
+}
+
+main section h4 {
+	margin-top: 1rem ;
+	margin-bottom: 0.5rem ;
+}
+
 /* For TAGLIST.HTML */
 .taglist {
 	text-align: center ;

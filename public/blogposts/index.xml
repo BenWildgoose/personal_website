@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ben Wildgoose&#39;s Website</title>
-    <link>https://benwildgoose.github.io/blogposts/</link>
+    <link>http://localhost:1313/blogposts/</link>
     <description>Recent content on Ben Wildgoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Aug 2025 17:55:23 +0100</lastBuildDate>
-    <atom:link href="https://benwildgoose.github.io/blogposts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogposts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Library</title>
-      <link>https://benwildgoose.github.io/blogposts/personal-library/</link>
+      <link>http://localhost:1313/blogposts/personal-library/</link>
       <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/personal-library/</guid>
+      <guid>http://localhost:1313/blogposts/personal-library/</guid>
       <description>&lt;p&gt;Explaining how I built my personal library using Rust.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Explaining how I built my personal library using Rust.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Fixing a car battery</title>
-      <link>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</link>
+      <link>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</link>
       <pubDate>Thu, 14 Aug 2025 17:55:23 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/2025-08-14-fixing-car-battery/</guid>
+      <guid>http://localhost:1313/blogposts/2025-08-14-fixing-car-battery/</guid>
       <description>&lt;p&gt;Here I will show how to fix the car battery in a Vauxhall Astra.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Here I will show how to fix the car battery in a Vauxhall Astra.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>My first post</title>
-      <link>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</link>
+      <link>http://localhost:1313/blogposts/2025-08-14-my-first-post/</link>
       <pubDate>Thu, 14 Aug 2025 17:55:23 +0100</pubDate>
-      <guid>https://benwildgoose.github.io/blogposts/2025-08-14-my-first-post/</guid>
+      <guid>http://localhost:1313/blogposts/2025-08-14-my-first-post/</guid>
       <description>&lt;p&gt;Post body&amp;hellip;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Post body&hellip;</p>
 ]]></content:encoded>

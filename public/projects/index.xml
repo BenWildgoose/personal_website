@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ben Wildgoose&#39;s Website</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content on Ben Wildgoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Aug 2025 09:32:59 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raytracer</title>
+      <link>http://localhost:1313/projects/raytracer/</link>
+      <pubDate>Fri, 06 Feb 2026 17:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/raytracer/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Drop Card Game</title>
+      <link>http://localhost:1313/projects/drop-card-game/</link>
+      <pubDate>Fri, 06 Feb 2026 17:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drop-card-game/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>C Compiler</title>
+      <link>http://localhost:1313/projects/c-compiler/</link>
+      <pubDate>Fri, 06 Feb 2026 17:33:05 +0000</pubDate>
+      <guid>http://localhost:1313/projects/c-compiler/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Lean Proof Formalisation</title>
+      <link>http://localhost:1313/projects/lean-proof-formalisation/</link>
+      <pubDate>Fri, 22 Aug 2025 09:32:59 +0100</pubDate>
+      <guid>http://localhost:1313/projects/lean-proof-formalisation/</guid>
+      <description>&lt;h2 id=&#34;lean-proof-formalisation&#34;&gt;Lean Proof Formalisation&lt;/h2&gt;
+&lt;p&gt;This project was part of my dissertation at the University of Bath. The goal was to bring a proof from asymptotic analysis and &amp;lsquo;formalise&amp;rsquo; it within the Lean proof assistant language.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Proof assistants are software systems that help construct and verify mathematical proofs. Lean is one such language that relies on sophisticated type theory to check if proofs are valid. During my final semester, I studied the underlying logic and semantics of such languages, which helped make sense of the complicated type theory that Lean depends upon.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="lean-proof-formalisation">Lean Proof Formalisation</h2>
+<p>This project was part of my dissertation at the University of Bath. The goal was to bring a proof from asymptotic analysis and &lsquo;formalise&rsquo; it within the Lean proof assistant language.</p>
+<h3 id="background">Background</h3>
+<p>Proof assistants are software systems that help construct and verify mathematical proofs. Lean is one such language that relies on sophisticated type theory to check if proofs are valid. During my final semester, I studied the underlying logic and semantics of such languages, which helped make sense of the complicated type theory that Lean depends upon.</p>
+<h3 id="work-completed">Work Completed</h3>
+<ul>
+<li>Translated asymptotic analysis proofs into formal Lean code</li>
+<li>Studied the type theory underpinning the Lean proof assistant</li>
+<li>Verified proofs using Lean&rsquo;s automated checking system</li>
+</ul>
+<p>Image: Lean code example - 600x400</p>
+<h3 id="related-topics">Related Topics</h3>
+<ul>
+<li>Type Theory</li>
+<li>Formal Methods</li>
+<li>Mathematical Logic</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

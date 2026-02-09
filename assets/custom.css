@@ -1,0 +1,99 @@
+/* Custom font configuration for your website */
+
+/* 
+To change fonts, modify the --sans-font variable below.
+This overrides the default fonts from simple.css.
+
+Popular font options:
+
+1. System fonts (already installed, fast loading):
+   - Default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif
+   - Serif: Georgia, "Times New Roman", Times, serif
+   - Monospace: "Courier New", Courier, monospace
+
+2. Google Fonts (add link in custom_head.html):
+   - Roboto: 'Roboto', sans-serif
+   - Open Sans: 'Open Sans', sans-serif
+   - Lato: 'Lato', sans-serif
+   - Merriweather: 'Merriweather', serif
+   - Source Code Pro: 'Source Code Pro', monospace
+
+Example: To use Google Fonts, add this to layouts/_partials/custom_head.html:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+Then uncomment and modify the font variables below.
+*/
+
+:root {
+  /* Uncomment and modify these to change your website fonts */
+  
+  /* Main body font (uncomment to change) */
+  /* --sans-font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; */
+  
+  /* Code/monospace font (uncomment to change) */
+  /* --mono-font: 'Source Code Pro', Consolas, Menlo, Monaco, monospace; */
+}
+
+/* You can also target specific elements */
+/* 
+body {
+  font-family: 'Your Font Name', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Your Heading Font', serif;
+}
+
+code, pre {
+  font-family: 'Your Code Font', monospace;
+}
+*/
+
+/* Links page - 2 column grid layout */
+.links-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.links-column {
+  margin-bottom: 1.5rem;
+}
+
+.links-column h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.5rem;
+}
+
+.links-column ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.links-column li {
+  margin-bottom: 0.75rem;
+}
+
+.links-column a {
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.links-column a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
+/* Responsive: stack columns on smaller screens */
+@media (max-width: 768px) {
+  .links-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
